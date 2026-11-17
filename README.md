@@ -32,3 +32,4 @@ python wow_enter_spammer.py --delay 300
 
 ## Disclaimer
 Automating inputs violates Blizzard's ToS. Use at your own risk.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/33e90e68-4e87-4635-8a43-780ab5daf2b6" />
