@@ -177,7 +177,7 @@ class WoWEnterSpammer:
         except KeyboardInterrupt:
             self.stop()
 
-        print("\n  Nashle, frajeře. CK Gang out. 🤙\n")
+        print("\n  Nashle, frajeře.\n")
 
     def print_banner(self):
         """Vypise banner pri startu."""
