@@ -1,10 +1,10 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║  WoW Character Creation Enter Spammer                       ║
-║  CK Gang 2.0 — Faction Lock Buster                          ║
+║  WoW Character Creation Enter Spammer                        ║
+║   — Faction Lock Buster                                      ║
 ║                                                              ║
 ║  Spamuje Enter do WoW okna, i kdyz neni v popredi.           ║
-║  Hotkeys: F6 = Start/Stop | F7 = Exit                       ║
+║  Hotkeys: F6 = Start/Stop | F7 = Exit                        ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
@@ -184,15 +184,15 @@ class WoWEnterSpammer:
         print()
         print("  ╔══════════════════════════════════════════════════════════╗")
         print("  ║     WoW Enter Spammer — Faction Lock Buster             ║")
-        print("  ║     CK Gang 2.0 Edition                                 ║")
+        print("  ║                                                          ║")
         print("  ╠══════════════════════════════════════════════════════════╣")
-        print(f"  ║  Delay:        {self.delay_ms}ms mezi Entery                       ║")
-        print(f"  ║  Toggle:       {HOTKEY_TOGGLE.upper()} (Start/Stop)                          ║")
-        print(f"  ║  Exit:         {HOTKEY_EXIT.upper()} (Ukončit)                             ║")
-        print("  ║  Režim:        PostMessage (funguje i na pozadí)        ║")
+        print(f" ║  Delay:        {self.delay_ms}ms mezi Entery            ║")
+        print(f" ║  Toggle:       {HOTKEY_TOGGLE.upper()} (Start/Stop)     ║")
+        print(f" ║  Exit:         {HOTKEY_EXIT.upper()} (Ukončit)          ║")
+        print("  ║  Režim:        PostMessage (funguje i na pozadí)         ║")
         print("  ╠══════════════════════════════════════════════════════════╣")
-        print("  ║  TIP: Spust WoW, jdi na character creation screen,     ║")
-        print("  ║       vyber si postavu a zmáčkni F6.                    ║")
+        print("  ║  TIP: Launch WoW, go to a character creation screen,     ║")
+        print("  ║       select a character, name and press F6.             ║")
         print("  ╚══════════════════════════════════════════════════════════╝")
         print()
 
